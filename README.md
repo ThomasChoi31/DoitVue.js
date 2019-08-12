@@ -1,16 +1,20 @@
-# Do it! Beginning Vue.js
+# Do it! Vue.js BookReview(8.3.2019. ~)
 > This repository contains all the code samples, quizzes and projects for Do it! Beginning Vue.js book.
+> 해당 repository은  Do it Vue.js 책 리뷰를 위한 repository으로 모든 소스는 https://github.com/joshua1988/doit-vuejs 
+를 참조하였습니다.
 
-이 리포지토리는 Do it! Vue.js 입문 도서의 예제, 직접 해보세요, 종합 프로젝트 코드가 포함되어 있습니다.<br>
-책에 안내된 번호에 따라 코드를 활용해보세요 :)
+## License & Copyright
+**Copyright © 2018 Captain Pangyo**
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
 
 ## 구성
 - [예제](#예제)
 - [직접해보세요](#직접해보세요)
 - [종합프로젝트](#종합프로젝트)
 
-## 예제
-#### 2장
+## Example
+#### Chater 2
 1. [Hello Vue.js](https://github.com/joshua1988/doit-vuejs/blob/master/exam/02/02-1/index.html)
 
 #### 3장
@@ -60,15 +64,3 @@
 3. [Vue.js 완벽 가이드](https://www.inflearn.com/course/vue-js/?utm_source=blog&utm_medium=githubio&utm_campaign=captianpangyo&utm_term=banner)
 
 > 추천 학습 로드맵 : Do it! Vue.js 입문 -> Vue.js 중급 -> Vue.js 완벽 가이드
-
-## 진행 예정인 오프라인 강좌
-
-- [Vue.js 정복 캠프](https://www.fastcampus.co.kr/dev_camp_vue/)
-  - 기간 : 19.06.24(월) ~ 19.07.31(수) 6주
-  - 일정 : 매주 월/수 20시 ~ 23시
-  - 장소 : 패스트 캠퍼스 (강남역 4번 출구 앞)
-
-## License & Copyright
-**Copyright © 2018 Captain Pangyo**
-<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
